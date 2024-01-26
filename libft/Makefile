@@ -3,10 +3,10 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: mamerlin <mamerlin@student.42.fr>          +#+  +:+       +#+         #
+#    By: mamerlin <mamerlin@student.42roma.it>      +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/01/20 18:32:12 by mamerlin          #+#    #+#              #
-#    Updated: 2024/01/20 19:49:54 by mamerlin         ###   ########.fr        #
+#    Updated: 2024/01/25 20:01:44 by mamerlin         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -56,7 +56,6 @@ BONUS = ./ft_lstadd_back.c \
 ./ft_lstmap.c \
 ./ft_lstnew.c \
 ./ft_lstsize.c
-
 
 OBJS = $(SRC:.c=.o)
 
